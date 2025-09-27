@@ -1,2 +1,2 @@
 # Q-mate
-this is one my hackathon project
+this is one of my hackathon project
